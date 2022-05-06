@@ -94,7 +94,7 @@ body {
 
 .contact-info ul li i,
 .references ul li i {
-    padding-right: 0rem;
+    padding-right: 1rem;
     font-size: 18px;
     color: #2E86C1;
 }
@@ -154,7 +154,6 @@ body {
     letter-spacing: 1px;
     line-height: 2rem;
     color: #F1F8FD;
-    
 }
 
 .experience-contents,
@@ -175,7 +174,6 @@ body {
     letter-spacing: 1px;
     color: #FDB44B;
     padding-bottom: .4rem;
-    width: 400px;
 }
 
 .exp-time-period,
